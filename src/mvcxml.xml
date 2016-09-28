@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+	<action>
+		<name>loginAction</name>
+		<class>com.mvc.loginAction</class>
+	</action>
+	<action>
+		<name>testAction</name>
+		<class>com.mvc.testAction</class>
+	</action>
+</actions>
